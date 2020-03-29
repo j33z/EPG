@@ -1,42 +1,25 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="TVAHD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png", TVA
+#EXTM3U 
+#EXTINF: -1 tvg-name="TVA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="IPTV", TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:-1 tvg-name="IRCHD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png", ICI Tele Saguenay
+#EXTINF: -1 tvg-name="IRC" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="IPTV", ICI Télé Saguenay
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png", Tele-V
+#EXTINF: -1 tvg-name="V" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="IPTV", V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-name="TQCH" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png", Tele-Quebec
+#EXTINF: -1 tvg-name="TQCH" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="IPTV", Télé-Québec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png", ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png", Le Canal Nouvelles
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
-#EXTINF: -1 tvg-name="CBMTHD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png", CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png", CBC TV (Québec)
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png", Weather Network Events
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png", France | France 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png", CBS News | CBSN National
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="IPTV", CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF: -1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png", NBC News Now 24/7 Live
+#EXTINF: -1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="IPTV", NBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png", ABC-TV
-http://cdn-maxplanck.wasd.tv/live/215157/mono.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png", NBC-TV
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png", CBS-TV
-https://lslfzqe5m94.a.trbcdn.net/livemaster/ldmic_live-jftiriuxx7c.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png", FOX-TV
-https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png", The CW
-https://lslfzqe5m94.a.trbcdn.net/livemaster/sqpxj_live-wwnj7g4wd2.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png", PBS-TV
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="IPTV", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF: -1 tvg-name="CBC NN" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="IPTV", CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF: -1 tvg-name="CBMT" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="IPTV", CBC TV Québec
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF: -1 tvg-name="ICIRDI" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="IPTV", ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF: -1 tvg-name="LCN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="IPTV", Le Canal Nouvelles
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="IPTV", France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
